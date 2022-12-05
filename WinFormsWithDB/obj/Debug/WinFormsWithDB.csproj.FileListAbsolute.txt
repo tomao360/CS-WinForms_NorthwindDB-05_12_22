@@ -1,0 +1,12 @@
+C:\Users\97252\source\repos\WinFormsWithDB\WinFormsWithDB\bin\Debug\WinFormsWithDB.exe.config
+C:\Users\97252\source\repos\WinFormsWithDB\WinFormsWithDB\bin\Debug\WinFormsWithDB.exe
+C:\Users\97252\source\repos\WinFormsWithDB\WinFormsWithDB\bin\Debug\WinFormsWithDB.pdb
+C:\Users\97252\source\repos\WinFormsWithDB\WinFormsWithDB\obj\Debug\WinFormsWithDB.csproj.AssemblyReference.cache
+C:\Users\97252\source\repos\WinFormsWithDB\WinFormsWithDB\obj\Debug\WinFormsWithDB.csproj.SuggestedBindingRedirects.cache
+C:\Users\97252\source\repos\WinFormsWithDB\WinFormsWithDB\obj\Debug\WinFormsWithDB.Form1.resources
+C:\Users\97252\source\repos\WinFormsWithDB\WinFormsWithDB\obj\Debug\WinFormsWithDB.csproj.GenerateResource.cache
+C:\Users\97252\source\repos\WinFormsWithDB\WinFormsWithDB\obj\Debug\WinFormsWithDB.csproj.CoreCompileInputs.cache
+C:\Users\97252\source\repos\WinFormsWithDB\WinFormsWithDB\obj\Debug\WinFormsWithDB.exe
+C:\Users\97252\source\repos\WinFormsWithDB\WinFormsWithDB\obj\Debug\WinFormsWithDB.pdb
+C:\Users\97252\source\repos\WinFormsWithDB\WinFormsWithDB\obj\Debug\WinFormsWithDB.Form2.resources
+C:\Users\97252\source\repos\WinFormsWithDB\WinFormsWithDB\obj\Debug\WinFormsWithDB.Form3.resources
